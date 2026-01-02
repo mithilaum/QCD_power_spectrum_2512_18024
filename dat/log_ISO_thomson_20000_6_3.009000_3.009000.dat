@@ -1,0 +1,12 @@
+Summary:
+Input file: /home/mithila/Mparser/Event_database/VecGenerator/MockPileup/ISO_thomson_20000.dat
+Output file: /home/mithila/EmPowerSpectrum/output_files/paper/H_ISO_thomson_20000_6_3.009000_3.009000.dat
+Number of input particles: 20000
+Number of tracks: 19891
+Number of towers: 1145
+Maximum l value: 256
+Square width: 6 degrees
+Eta max (cal): 3.009
+Eta max (track): 3.009
+Tracks <f|f>: 5.0274e-05
+Towers <f|f>: 0.000877491

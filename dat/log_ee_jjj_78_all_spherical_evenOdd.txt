@@ -1,0 +1,12 @@
+Summary:
+Input file (ME): /home/mithila/Mparser/Event_database/hard_scatter/ee_jjj/ee_jjj_78_hard_process_final.dat
+Input file (final state): /home/mithila/Mparser/Event_database/hard_scatter/ee_jjj/ee_jjj_78_all.dat
+Output file: /home/mithila/EmPowerSpectrum/output_files/EvenOdd/H_ee_jjj_78_all_spherical_evenOdd.dat
+
+Number of particles (ME): 3
+Partons <f|f>: 0.425262
+
+Number of particles (final state): 57
+Particles <f|f>: 0.158165
+
+Maximum l value: 256
